@@ -1,2 +1,4 @@
 # Udacity_Capstone_Project
-Capstone Project, Bitcoin, time series prediction using Seq2Seq 
+##Capstone Project
+Predictiong the Bitcoin values, with both Stack LSTM and Seq2Seq model. 
+
