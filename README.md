@@ -21,7 +21,7 @@ Next, clone this repository to your desktop to make changes.
 
 ```sh
 $ git clone {https://github.com/parinazfa/Udacity_Capstone_Project.git}
-$ cd ud777-writing-readmes
+$ cd Udacity_Capstone_Project
 ```
 
 Once you've pushed changes to your local repository, you can issue a pull request by clicking on the green pull request icon.
