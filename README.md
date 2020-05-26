@@ -20,7 +20,7 @@ First, fork this repository.
 Next, clone this repository to your desktop to make changes.
 
 ```sh
-$ git clone {YOUR_REPOSITORY_CLONE_URL}
+$ git clone {https://github.com/parinazfa/Udacity_Capstone_Project.git}
 $ cd ud777-writing-readmes
 ```
 
